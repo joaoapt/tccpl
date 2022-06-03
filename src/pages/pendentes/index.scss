@@ -1,0 +1,243 @@
+.tudo
+{
+    width: 1339.9px;
+    background-color: black;
+    .png
+    {
+        height:150px ;
+        width:200px ;
+    }
+    .figura-aulado
+    {
+        float: right;
+        width: 950px;
+        height: 140px;
+    }
+
+    h1{
+        font-size:90px;
+    color: #EBC42A;
+    margin-top: 1em;  
+    font-family: 'Barlow Condensed', sans-serif;
+    }
+
+    h4{
+
+        font-size:50px;
+        color: #EBC42A;
+        margin-top: 4em;
+        font-family: 'Barlow Condensed', sans-serif;
+    }
+
+    li{
+        font-size: 25px;
+        color: #EBC42A;
+        margin-top: 10px; 
+        text-align: center;
+        font-family: 'Barlow Condensed', sans-serif;
+    }
+
+    p{
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    button{
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 5px 15px 5px 15px;
+        border-radius: 1em;
+        cursor: pointer;
+        font-family: 'Montserrat', sans-serif;
+        width: 100px;
+        height: 30px;
+    }
+
+    .sub-titulo
+    {
+        font-family: 'Barlow Condensed', sans-serif;
+        text-align: center;
+        margin-right: 3.5em;
+        border: 1px solid #EBC42A;
+        margin-left: 3.5em;
+    }
+
+    .tabela1
+    {
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        background-color: #3f3f3f;
+        border-radius: 1em;
+        margin-right: 10em;
+        margin-left: 10em;
+        height: 25em;
+    }
+
+    .numeropedido1
+    {
+        margin-bottom: 8em;
+    }
+
+    .numecon1
+    {
+        padding-left: 2em;
+        padding-top: 3em;
+    }
+
+
+    .d1{
+        background-color: black;
+        margin: 10px 2em 15px 2em;
+        width: 16em;
+        border-radius: 2em;
+    }
+
+    .d2{
+        background-color: black;
+        margin: 10px 2em 15px 2em;
+        width: 16em;
+        border-radius: 2em;
+    }
+
+    .d3{
+        background-color: black;
+        margin: 10px 2em 15px 2em;
+        width: 16em;
+        border-radius: 2em;
+    }
+
+    .d4{
+        background-color: black;
+        margin: 10px 2em 15px 2em;
+        width: 16em;
+        border-radius: 2em;
+    }
+
+    .sub-titulo2
+    {
+        font-family: 'Barlow Condensed', sans-serif;
+        text-align: center;
+        border: 1px solid #EBC42A;
+        margin-left: 3.5em;
+        margin-right: 3.5em;
+    }
+
+    .p1{
+        background-color: black;
+        margin: 10px 2em 15px 2em;
+        width: 16em;
+        border-radius: 2em;
+    }
+
+    .p2{
+        background-color: black;
+        margin: 10px 2em 15px 2em;
+        width: 16em;
+        border-radius: 2em;
+    }
+
+    .p3{
+        background-color: black;
+        margin: 10px 2em 15px 2em;
+        width: 16em;
+        border-radius: 2em;
+    }
+
+    .p4{
+        background-color: black;
+        margin: 10px 2em 15px 2em;
+        width: 16em;
+        border-radius: 2em;
+    }
+
+    .tabela2
+    {
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        background-color: #3f3f3f;
+        border-radius: 1em;
+        margin-right: 10em;
+        margin-left: 10em;
+        height: 25em;
+    }
+
+    .numecon2
+    {
+        padding-left: 2em;
+        padding-top: 3em;
+    }
+
+    .numeropedido2
+    {
+        margin-bottom: 8em;
+    }
+
+    .img3
+    {
+        width: 1335px;
+        height: 550px;
+        margin-top: 3em;
+        margin-right: 5px;
+    }
+    .botão-1
+    {   
+        float: left;
+        clear: both;
+        font-size: 20px;
+        margin-left:9em;
+        margin-top:-43px;
+        clear: both;
+        font-family: 'Montserrat', sans-serif;
+        display:inline-block;
+        padding:10px 20px;
+        vertical-align: middle;
+        overflow: hidden;
+        text-decoration:none;
+        color:inherit;
+        background-color:inherit;
+        text-align: center;
+        cursor: pointer;
+        white-space:nowrap;
+        background-color:#3F3F3F;
+        color:rgb(243, 243, 243);
+        border-radius: 25px;
+    }
+    .img{
+        width: 60px;
+        height: 60px;
+
+    }
+    .botão
+    {   
+        float: right;
+        clear: both;
+        margin-right: 11em;
+        margin-top:87px;
+        clear: both;
+        font-family: 'Montserrat', sans-serif;
+        display:inline-block;
+        padding:2px 5px;
+        vertical-align: middle;
+        overflow: hidden;
+        text-decoration:none;
+        color:inherit;
+        background-color:inherit;
+        text-align: center;
+        cursor: pointer;
+        white-space:nowrap;
+        background-color:#3F3F3F;
+        color:rgb(243, 243, 243);
+        border-radius: 50%;
+    }
+    a:hover{
+        border:  1px solid #EBC42A;
+        color :#EBC42A;
+        box-shadow:0px 0px 35px #DEFF1C 0px 0px 15px #EFDD3E;
+        text-shadow: 0px 0px 10px #DEFF1C 0px 0px 3px #DEFF1C;
+    }
+}
